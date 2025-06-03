@@ -4,7 +4,7 @@ An interactive and fully responsive animated personal portfolio website built us
 
 ## 🔗 Live Demo
 
-[Click here to view the live website](https://yourusername.github.io/animated-portfolio/)  
+[Click here to view the live website](https://my-animated-portfolio-websites.vercel.app/)  
 *(Replace this URL with your actual GitHub Pages or deployment link)*
 
 ---
