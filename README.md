@@ -11,7 +11,7 @@ An interactive and fully responsive animated personal portfolio website built us
 
 ## 📸 Preview
 
-![Portfolio Preview](./assets/preview.png)  
+![Portfolio Preview](image.png)  
 *(Add a screenshot of your website here)*
 
 ---
@@ -54,7 +54,7 @@ animated-portfolio/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/animated-portfolio.git
+   git clone https://github.com/Gautamjha321/animated-portfolio.git
 
 
 cd animated-portfolio
