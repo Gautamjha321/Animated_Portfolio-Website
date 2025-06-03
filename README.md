@@ -1,21 +1,86 @@
+# 🌟 Animated Portfolio Website
 
-<a href="https://youtu.be/moRqo158NGc?si=DAIbiOkKnHknEQVJ" target="_blank">
-  <img src="./images/thumbnail.png" alt="Thumbnail"/>
-</a>
+An interactive and fully responsive animated personal portfolio website built using **HTML**, **CSS**, and **JavaScript**.
+
+## 🔗 Live Demo
+
+[Click here to view the live website](https://yourusername.github.io/animated-portfolio/)  
+*(Replace this URL with your actual GitHub Pages or deployment link)*
+
+---
+
+## 📸 Preview
+
+![Portfolio Preview](./assets/preview.png)  
+*(Add a screenshot of your website here)*
+
+---
+
+## ✨ Features
+
+- Smooth scrolling and animated transitions
+- Responsive design for all devices
+- Animated hero section and skill bars
+- Projects showcase section with hover effects
+- Contact form with basic validation
+- Light/Dark mode toggle *(optional)*
+- Scroll-to-top button
+
+---
+
+## 🛠️ Built With
+
+- **HTML5** – Structure
+- **CSS3** – Styling and animations
+- **JavaScript** – Interactivity and DOM manipulation
+
+---
+
+## 📁 Folder Structure
+
+animated-portfolio/
+├── index.html
+├── style.css
+├── script.js
+├── assets/
+│ ├── images/
+│ └── icons/
+└── README.md
 
 
 ---
-## Introduction: 
 
-#### 🎥 Create the Ultimate Portfolio Website with Just HTML,CSS and JavaSctipt! 💻
+## 🚀 Getting Started
 
-#### Want to design a stunning portfolio website that’s responsive, modern, and minimalist? In this step-by-step tutorial, we’ll use only HTML and CSS to craft a visually appealing site that highlights your skills, projects, and creativity. 🌟
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/animated-portfolio.git
 
-#### From building the perfect navbar and styling a sleek header to creating a gallery for your work and adding smooth animations and hover effects, this video covers it all! Whether you’re a beginner or looking to sharpen your design skills, we’ll help you master flexbox, grid, and media queries for a truly responsive layout.
 
+cd animated-portfolio
+
+start index.html  # On Windows
+open index.html   # On macOS
+
+✍️ Author
+Gautam  Jha
+
+GitHub
+
+LinkedIn
+
+Twitter (X)
+
+📄 License
+This project is licensed under the MIT License.
+
+🙌 Contributing
+Contributions are welcome! Please fork this repo and submit a pull request for any enhancements or fixes.
+
+yaml
+Copy
+Edit
 
 ---
-## Watch the full tutorial on YouTub
-<a href="https://youtu.be/moRqo158NGc?si=DAIbiOkKnHknEQVJ">
-  <img src="./images/youtube-ligo.png" alt="youtube"/>
-</a>
+
+Would you like the full website source code to go with this `README.md`?
